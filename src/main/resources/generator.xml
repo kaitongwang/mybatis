@@ -22,7 +22,7 @@
                 driverClass="com.mysql.jdbc.Driver"
                 connectionURL="jdbc:mysql://47.112.27.58:3306/lzjd"
                 userId="root"
-                password="biz123456">
+                password="*****">
         </jdbcConnection>
 
 
